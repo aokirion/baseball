@@ -1,0 +1,20 @@
+.teamlogo1 {
+  position: absolute;
+  top: 50px;
+  left: 780px;
+  width: 50px;
+  height: 50px;
+}
+
+.teamlogo2 {
+  position: absolute;
+  top: 50px;
+  left: 1090px;
+  width: 50px;
+  height: 50px;
+}
+
+/* セル幅を自動調整 */
+table, th, td {
+  width: auto !important;
+}
